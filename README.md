@@ -36,4 +36,9 @@ git checkout basicstructures
 ```
 above lines are typed inside this branch and committed using git add and commit
 
-now switch to master and merge exp2 ends 
+now switch to master and merge exp2 ends ## Exp5 Git Push and Git Pull 
+Confirm upstream and push
+```
+git branch -vv
+git push    
+```
